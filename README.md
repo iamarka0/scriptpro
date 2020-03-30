@@ -1,2 +1,0 @@
-# scriptpro
-Scripts for linux
